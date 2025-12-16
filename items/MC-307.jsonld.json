@@ -40,7 +40,7 @@
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/UND/1.0/"
   },
-  "schema:name": "Photographs of African Americans at Pullman Saloon",
+  "schema:name": "Photograph of African Americans at Pullman Saloon",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
