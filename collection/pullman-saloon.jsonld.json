@@ -28,7 +28,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
   },
-  "schema:description": "Mounted group portrait of African American men, women, and children posed outside the Pullman Saloon in Tonopah, Nevada around 1905, highlighting Black social life and railroad porter culture in a western mining boomtown.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8xp7c6p).",
+  "schema:description": "This photograph is a group portrait of African American men, women, and children posed outside the Pullman Saloon in Tonopah, Nevada, circa 1905. The image contains eighteen men, one woman, two young girls, and two dogs. Several of the men are smoking cigars. A spaniel is seated on a chair in front of the group. The Pullman Saloon was the hub of African American social life in Tonopah, Nevada, a town established in 1900 following the discovery of silver and gold in the area. \n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8xp7c6p).",
   "schema:identifier": [
     "MC-307",
     "ark:/87293/d3sb3x66x"
@@ -39,7 +39,7 @@
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:name": "Photograph of African Americans at Pullman Saloon",
+  "schema:name": "African Americans at Pullman Saloon Photograph.",
   "schema:publisher": [
     "UC Davis Library, Archives and Special Collections",
     {
