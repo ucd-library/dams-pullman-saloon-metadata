@@ -26,10 +26,7 @@
     "@id": "@base:/MC-307.tif"
   },
   "schema:creator": "Shaw, Herbert T.",
-  "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "circa 1905"
-  },
+  "schema:datePublished": "1905?",
   "schema:identifier": [
     "MC-307",
     "ark:/87293/d3nk36d25"
